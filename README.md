@@ -1,7 +1,7 @@
 # Salut ! Je suis Belal Allala 👋 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Belal-allala/Portfolio/main/youcode_logo.png" width="200" alt="YouCode Logo">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJtcM_V7JEpc5R1m2WROFvmCaUcib9Agd1g&s" width="200" alt="YouCode Logo">
 </p>
 
 ### 🚀 Développeur Full-Stack | Passionné par l'écosystème Java & Angular
@@ -52,9 +52,9 @@ Je suis un développeur Full-Stack formé à **YouCode (UM6P)**, actuellement en
 ---
 
 ### 📫 Me contacter
-- **LinkedIn :** [linkedin.com/in/Belal-allala](https://linkedin.com/in/Belal-allala)
-- **Email :** belal.allala@email.com (à mettre à jour)
-- **Portfolio :** [Mon Portfolio en ligne](https://belal-allala.vercel.app)
+- **LinkedIn :** [linkedin.com/in/Belal-allala](https://linkedin.com/in/belal-allala-3990a6394)
+- **Email :** belalallala810@email.com 
+- **Portfolio :** [Mon Portfolio en ligne](https://belalallala.com)
 
 ---
 
