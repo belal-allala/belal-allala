@@ -98,14 +98,13 @@ const belal = {
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belal-allala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belal-allala&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Belal-allala&show_icons=true&theme=tokyonight&count_private=true" alt="Belal's Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belal-allala&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belal-allala&layout=compact&theme=tokyonight" alt="Top Langages" />
+</p>
 
 ---
 
